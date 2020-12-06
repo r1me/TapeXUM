@@ -23,6 +23,8 @@ Huge thanks to Data/Tropyx for creating enclosure design for 3D printing!
 | 0.1uF electrolytic capacitor | 1 |
 | Barrel jack DC connector | 1 |
 | 1x3 pin header 2.54mm and a jumper | 1 |
+| 9VDC power supply | 1 |
+| Micro USB cable | 1 |
 
 ### License
 TapeXUM follows same license for software as OpenCBM. PCB design of TapeXUM is free and shared under CERN OHW v2 (open hardware licence).
