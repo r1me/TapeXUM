@@ -21,9 +21,9 @@ Huge thanks to Data/Tropyx for creating enclosure design for 3D printing!
 | 1N400x diode | 1 |
 | 1uF electrolytic capacitor | 1 |
 | 0.1uF electrolytic capacitor | 1 |
-| Barrel jack DC connector | 1 |
+| Barrel jack DC connector 2.1/5.5mm or 2.5/5.5mm | 1 |
 | 1x3 pin header 2.54mm and a jumper | 1 |
-| 9VDC power supply | 1 |
+| 9VDC 500mA power supply with DC connector (center positive) | 1 |
 | Micro USB cable | 1 |
 
 ### License
