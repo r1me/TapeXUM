@@ -26,5 +26,8 @@ Huge thanks to Data/Tropyx for creating enclosure design for 3D printing!
 | 9VDC 500mA power supply with DC connector (center positive) | 1 |
 | Micro USB cable | 1 |
 
+### Programming Arduino
+`avrdude -p m32u4 -c avr109 -P comX -U flash:w:xum1541-PROMICRO_TAPE-v08.hex`
+
 ### License
 TapeXUM follows same license for software as OpenCBM. PCB design of TapeXUM is free and shared under CERN OHW v2 (open hardware licence).
